@@ -46,3 +46,20 @@ body {
 .list-unstyled a:hover {
     background-color: #555;
 }
+
+#sidebarCollapse {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#sidebarCollapse:hover {
+    background-color: #555;
+}
